@@ -34,6 +34,7 @@ echo "===============================\n";
 echo "   Calculadora do Wagner\n";
 echo "===============================\n";
 
+
 $n1 = (int) readline("Digite o primeiro número: ");
 $n2 = (int) readline("Digite o segundo número: ");
 $opcao = (string) readline("Digite a operação desejada (somar, subtrair, multiplicar, dividir): ");
